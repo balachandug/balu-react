@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/balu-react/static/css/main.f378ae78.chunk.css",
+    "main.js": "/balu-react/static/js/main.f1e5c5ea.chunk.js",
+    "main.js.map": "/balu-react/static/js/main.f1e5c5ea.chunk.js.map",
+    "runtime-main.js": "/balu-react/static/js/runtime-main.35a87438.js",
+    "runtime-main.js.map": "/balu-react/static/js/runtime-main.35a87438.js.map",
+    "static/js/2.ea1a6e4d.chunk.js": "/balu-react/static/js/2.ea1a6e4d.chunk.js",
+    "static/js/2.ea1a6e4d.chunk.js.map": "/balu-react/static/js/2.ea1a6e4d.chunk.js.map",
+    "index.html": "/balu-react/index.html",
+    "precache-manifest.00fc9471563699dbf67bf7d3f81f75af.js": "/balu-react/precache-manifest.00fc9471563699dbf67bf7d3f81f75af.js",
+    "service-worker.js": "/balu-react/service-worker.js",
+    "static/css/main.f378ae78.chunk.css.map": "/balu-react/static/css/main.f378ae78.chunk.css.map",
+    "static/js/2.ea1a6e4d.chunk.js.LICENSE.txt": "/balu-react/static/js/2.ea1a6e4d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/balu-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a87438.js",
+    "static/js/2.ea1a6e4d.chunk.js",
+    "static/css/main.f378ae78.chunk.css",
+    "static/js/main.f1e5c5ea.chunk.js"
+  ]
+}
